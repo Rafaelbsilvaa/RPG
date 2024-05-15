@@ -6,36 +6,57 @@ namespace Asset
     public class Texto
 
     {
-        [System.Runtime.InteropServices.DllImport("kernel32.dll")]
-        private static extern IntPtr GetConsoleWindow();
 
-        [System.Runtime.InteropServices.DllImport("user32.dll")]
-        private static extern bool ShowWindow(IntPtr hWnd, int nCmdShow);
-
-        private const int SW_HIDE = 0;
-
-        private const int SW_MAXIMIZE = 3;
-
-        static void Main(string[] args)
+        public void ExibirMenu()
         {
-            IntPtr handle = GetConsoleWindow();
-            ShowWindow(handle, SW_MAXIMIZE);
-
-            int consoleWidth = Console.WindowWidth;
-            string texto = "       Bem-vindo a Arkania";
-            string texto1 = "      Press Enter for Start";
-            string texto2 = "         Sair";
-
-            int posicaoInicial = (consoleWidth - texto.Length) / 2;
-            int posicaoInicial1 = (consoleWidth - texto1.Length) / 2;
-            int posicaoInicial2 = (consoleWidth - texto2.Length) / 2;
-
-            Console.WriteLine(new string(' ', posicaoInicial) + texto);
-            Console.WriteLine(new string(' ', posicaoInicial) + texto1);
-            Console.WriteLine(new string(' ', posicaoInicial) + texto2);
+            Console.WriteLine(@"                                                       ARKANIA                                           
+                                                         ##                      
+                                                         ##                      
+                                                         ##                      
+                                                         ##                      
+                                                         ##                      
+                                                  
+                                                  ################                
+                                                  
+                                    ################  ####  ##  ################  
+                                          ##########  ####  ##  ##########        
+                                    ########      ##  ####  ##  ##      ######    
+                                      ##########  ##  ####  ##  ##  ##########    
+                                                  ##  ####  ##  ##                
+                                        ########  ##  ####  ##  ##  ########      
+                                                ##    ####  ##    ##              
+                                          ######      ####  ##      ######        
+                                                      ####  ##                    
+                                                      ####  ##                    
+                                                      ####  ##                    
+                                                      ####  ##                    
+                                                      ########                    
+                                                        ######                    
+                                                          ##                      
+                                                                                  ");
+            Console.WriteLine("                                             Pressione Qualquer Tecla!");
 
             Console.ReadKey();
+            Console.Clear();
+        }
 
+        public void Exibir1Texto()
+        {
+            Console.WriteLine(@"
+No mundo de Arkania, uma aura mortal assola as terras outrora pacíficas. 
+O equilíbrio entre humanos e criaturas místicas foi rompido, e monstros 
+que antes eram dispersos agora se reúnem em hordas vorazes,assolando os 
+reinos humanos como uma maré negra. No meio desse caos, 
+um jovem aventureiro inexperiente, 
+chamado Kael, acabou de ingressar na prestigiosa Guilda dos Aventureiros. 
+
+
+
+
+");
+            Console.WriteLine("                                             Pressione Qualquer Tecla!");
+            Console.ReadKey();
+            Console.Clear();
         }
     }
 }

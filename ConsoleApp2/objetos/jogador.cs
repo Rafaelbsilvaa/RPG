@@ -7,9 +7,6 @@
         public int Dano { get; set; }
         public int Cura { get; set; }
 
-      
-        
-
         public jogador(string nome,int dano)
         {
             Nome = nome;

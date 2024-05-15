@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafae\\Desktop\\JOGOS\\ConsoleApp2\\Asset\\Asset.csproj",
+      "projectUniqueName": "C:\\Users\\rafae\\Documents\\GitHub\\RPG\\ConsoleApp2\\Asset\\Asset.csproj",
       "projectName": "Asset",
-      "projectPath": "C:\\Users\\rafae\\Desktop\\JOGOS\\ConsoleApp2\\Asset\\Asset.csproj",
+      "projectPath": "C:\\Users\\rafae\\Documents\\GitHub\\RPG\\ConsoleApp2\\Asset\\Asset.csproj",
       "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafae\\Desktop\\JOGOS\\ConsoleApp2\\Asset\\obj\\",
+      "outputPath": "C:\\Users\\rafae\\Documents\\GitHub\\RPG\\ConsoleApp2\\Asset\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
