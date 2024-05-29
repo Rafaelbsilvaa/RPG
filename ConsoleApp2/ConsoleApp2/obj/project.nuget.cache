@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sYNOdRwlI6W5mhhBsnSOIjOn0XB+uMJ2u12Zd+4p32GWQYPA5DoXWVTpzaIepVizJGpbuqPahq/IdRncYz965A==",
+  "dgSpecHash": "cqz0TK/ZqywsEqMs55jzXi+nCKR5n43raooYwo4sA3yaoAof26N0KWA9KMT7sff3kHLqe0tuNJgAF3FoKiWp2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafae\\Documents\\GitHub\\RPG\\ConsoleApp2\\ConsoleApp2\\Jogorpg.csproj",
+  "projectFilePath": "C:\\Users\\Trabalho\\Desktop\\Faculdade\\PROJETOS\\GRUPO2\\RPG\\ConsoleApp2\\ConsoleApp2\\Jogorpg.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\rafae\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\Trabalho\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

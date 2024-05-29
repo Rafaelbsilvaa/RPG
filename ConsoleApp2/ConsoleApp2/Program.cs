@@ -15,6 +15,12 @@ class Program
         jogador jogador = new jogador("Kael", 5);
 
 
+
+        Inimigo Inimigo1 = new Inimigo(jogador);
+        Batalha batalha = new Batalha();
+        batalha.IniciarBatalha(jogador, Inimigo1);
+
+
         //========================================================================
 
 

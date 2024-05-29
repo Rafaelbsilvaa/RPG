@@ -25,6 +25,26 @@
             Console.WriteLine("                                             Jogador Subiu de Nivel");
             return jogador;
         }
+        
+        public Tuple<jogador,Inimigo> Batalha(jogador jogador,Inimigo inimigo)
+        {
+            Console.WriteLine("Jogador ataca causando "+ jogador.Dano);
+            inimigo.Vida = inimigo.Vida - jogador.Dano;
+            if(inimigo.Vida <= 0)
+            {
+                Console.WriteLine("Inimigo Derrotado");
+                jogador =  Subirnivel(jogador);
+            }
+            if (inimigo.Vida > 0)
+            {
+                Console.WriteLine("Inimigo com "+ inimigo.Vida +" de vida restante");
+                Console.WriteLine("Inimigo ataca causando " + inimigo.Dano);
+                jogador.Vida = jogador.Vida - inimigo.Dano;
+                Console.WriteLine("Jogador com " + jogador.Vida + " de vida restante");
+                
+            }
+            return Tuple.Create(jogador, inimigo);
+        }
 
 
     }

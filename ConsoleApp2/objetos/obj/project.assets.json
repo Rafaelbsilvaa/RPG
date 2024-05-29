@@ -55,19 +55,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rafae\\.nuget\\packages\\": {}
+    "C:\\Users\\Trabalho\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafae\\Documents\\GitHub\\RPG\\ConsoleApp2\\objetos\\objetos.csproj",
+      "projectUniqueName": "C:\\Users\\Trabalho\\Desktop\\Faculdade\\PROJETOS\\GRUPO2\\RPG\\ConsoleApp2\\objetos\\objetos.csproj",
       "projectName": "objetos",
-      "projectPath": "C:\\Users\\rafae\\Documents\\GitHub\\RPG\\ConsoleApp2\\objetos\\objetos.csproj",
-      "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafae\\Documents\\GitHub\\RPG\\ConsoleApp2\\objetos\\obj\\",
+      "projectPath": "C:\\Users\\Trabalho\\Desktop\\Faculdade\\PROJETOS\\GRUPO2\\RPG\\ConsoleApp2\\objetos\\objetos.csproj",
+      "packagesPath": "C:\\Users\\Trabalho\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Trabalho\\Desktop\\Faculdade\\PROJETOS\\GRUPO2\\RPG\\ConsoleApp2\\objetos\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Trabalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -114,7 +121,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

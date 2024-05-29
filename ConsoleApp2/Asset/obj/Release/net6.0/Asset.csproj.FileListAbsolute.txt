@@ -1,0 +1,12 @@
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\Asset\bin\Release\net6.0\Asset.deps.json
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\Asset\bin\Release\net6.0\Asset.dll
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\Asset\bin\Release\net6.0\Asset.pdb
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\Asset\obj\Release\net6.0\Asset.csproj.AssemblyReference.cache
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\Asset\obj\Release\net6.0\Asset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\Asset\obj\Release\net6.0\Asset.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\Asset\obj\Release\net6.0\Asset.AssemblyInfo.cs
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\Asset\obj\Release\net6.0\Asset.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\Asset\obj\Release\net6.0\Asset.dll
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\Asset\obj\Release\net6.0\refint\Asset.dll
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\Asset\obj\Release\net6.0\Asset.pdb
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\Asset\obj\Release\net6.0\ref\Asset.dll

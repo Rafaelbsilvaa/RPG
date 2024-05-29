@@ -58,5 +58,19 @@ chamado Kael, acabou de ingressar na prestigiosa Guilda dos Aventureiros.
             Console.ReadKey();
             Console.Clear();
         }
+
+        public void Exibir2Texto()
+        {
+            Console.WriteLine(@"
+ 
+
+
+
+
+");
+            Console.WriteLine("                                             Pressione Qualquer Tecla!");
+            Console.ReadKey();
+            Console.Clear();
+        }
     }
 }

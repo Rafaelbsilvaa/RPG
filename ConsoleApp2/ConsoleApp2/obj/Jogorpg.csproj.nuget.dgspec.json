@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafae\\Documents\\GitHub\\RPG\\ConsoleApp2\\ConsoleApp2\\Jogorpg.csproj": {}
+    "C:\\Users\\Trabalho\\Desktop\\Faculdade\\PROJETOS\\GRUPO2\\RPG\\ConsoleApp2\\ConsoleApp2\\Jogorpg.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafae\\Documents\\GitHub\\RPG\\ConsoleApp2\\Asset\\Asset.csproj": {
+    "C:\\Users\\Trabalho\\Desktop\\Faculdade\\PROJETOS\\GRUPO2\\RPG\\ConsoleApp2\\Asset\\Asset.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafae\\Documents\\GitHub\\RPG\\ConsoleApp2\\Asset\\Asset.csproj",
+        "projectUniqueName": "C:\\Users\\Trabalho\\Desktop\\Faculdade\\PROJETOS\\GRUPO2\\RPG\\ConsoleApp2\\Asset\\Asset.csproj",
         "projectName": "Asset",
-        "projectPath": "C:\\Users\\rafae\\Documents\\GitHub\\RPG\\ConsoleApp2\\Asset\\Asset.csproj",
-        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafae\\Documents\\GitHub\\RPG\\ConsoleApp2\\Asset\\obj\\",
+        "projectPath": "C:\\Users\\Trabalho\\Desktop\\Faculdade\\PROJETOS\\GRUPO2\\RPG\\ConsoleApp2\\Asset\\Asset.csproj",
+        "packagesPath": "C:\\Users\\Trabalho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Trabalho\\Desktop\\Faculdade\\PROJETOS\\GRUPO2\\RPG\\ConsoleApp2\\Asset\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Trabalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,21 +60,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\rafae\\Documents\\GitHub\\RPG\\ConsoleApp2\\ConsoleApp2\\Jogorpg.csproj": {
+    "C:\\Users\\Trabalho\\Desktop\\Faculdade\\PROJETOS\\GRUPO2\\RPG\\ConsoleApp2\\ConsoleApp2\\Jogorpg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafae\\Documents\\GitHub\\RPG\\ConsoleApp2\\ConsoleApp2\\Jogorpg.csproj",
+        "projectUniqueName": "C:\\Users\\Trabalho\\Desktop\\Faculdade\\PROJETOS\\GRUPO2\\RPG\\ConsoleApp2\\ConsoleApp2\\Jogorpg.csproj",
         "projectName": "Jogorpg",
-        "projectPath": "C:\\Users\\rafae\\Documents\\GitHub\\RPG\\ConsoleApp2\\ConsoleApp2\\Jogorpg.csproj",
-        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafae\\Documents\\GitHub\\RPG\\ConsoleApp2\\ConsoleApp2\\obj\\",
+        "projectPath": "C:\\Users\\Trabalho\\Desktop\\Faculdade\\PROJETOS\\GRUPO2\\RPG\\ConsoleApp2\\ConsoleApp2\\Jogorpg.csproj",
+        "packagesPath": "C:\\Users\\Trabalho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Trabalho\\Desktop\\Faculdade\\PROJETOS\\GRUPO2\\RPG\\ConsoleApp2\\ConsoleApp2\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Trabalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,11 +93,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\rafae\\Documents\\GitHub\\RPG\\ConsoleApp2\\Asset\\Asset.csproj": {
-                "projectPath": "C:\\Users\\rafae\\Documents\\GitHub\\RPG\\ConsoleApp2\\Asset\\Asset.csproj"
+              "C:\\Users\\Trabalho\\Desktop\\Faculdade\\PROJETOS\\GRUPO2\\RPG\\ConsoleApp2\\Asset\\Asset.csproj": {
+                "projectPath": "C:\\Users\\Trabalho\\Desktop\\Faculdade\\PROJETOS\\GRUPO2\\RPG\\ConsoleApp2\\Asset\\Asset.csproj"
               },
-              "C:\\Users\\rafae\\Documents\\GitHub\\RPG\\ConsoleApp2\\objetos\\objetos.csproj": {
-                "projectPath": "C:\\Users\\rafae\\Documents\\GitHub\\RPG\\ConsoleApp2\\objetos\\objetos.csproj"
+              "C:\\Users\\Trabalho\\Desktop\\Faculdade\\PROJETOS\\GRUPO2\\RPG\\ConsoleApp2\\objetos\\objetos.csproj": {
+                "projectPath": "C:\\Users\\Trabalho\\Desktop\\Faculdade\\PROJETOS\\GRUPO2\\RPG\\ConsoleApp2\\objetos\\objetos.csproj"
               }
             }
           }
@@ -123,21 +133,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\rafae\\Documents\\GitHub\\RPG\\ConsoleApp2\\objetos\\objetos.csproj": {
+    "C:\\Users\\Trabalho\\Desktop\\Faculdade\\PROJETOS\\GRUPO2\\RPG\\ConsoleApp2\\objetos\\objetos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafae\\Documents\\GitHub\\RPG\\ConsoleApp2\\objetos\\objetos.csproj",
+        "projectUniqueName": "C:\\Users\\Trabalho\\Desktop\\Faculdade\\PROJETOS\\GRUPO2\\RPG\\ConsoleApp2\\objetos\\objetos.csproj",
         "projectName": "objetos",
-        "projectPath": "C:\\Users\\rafae\\Documents\\GitHub\\RPG\\ConsoleApp2\\objetos\\objetos.csproj",
-        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafae\\Documents\\GitHub\\RPG\\ConsoleApp2\\objetos\\obj\\",
+        "projectPath": "C:\\Users\\Trabalho\\Desktop\\Faculdade\\PROJETOS\\GRUPO2\\RPG\\ConsoleApp2\\objetos\\objetos.csproj",
+        "packagesPath": "C:\\Users\\Trabalho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Trabalho\\Desktop\\Faculdade\\PROJETOS\\GRUPO2\\RPG\\ConsoleApp2\\objetos\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Trabalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -184,7 +199,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
