@@ -9,7 +9,8 @@ namespace Asset
 
         public void ExibirMenu()
         {
-            Console.WriteLine(@"                                                       ARKANIA                                           
+            Console.WriteLine(@"                                                       ARKANIA 
+
                                                          ##                      
                                                          ##                      
                                                          ##                      
@@ -43,12 +44,24 @@ namespace Asset
         public void Exibir1Texto()
         {
             Console.WriteLine(@"
-No mundo de Arkania, uma aura mortal assola as terras outrora pacíficas. 
-O equilíbrio entre humanos e criaturas místicas foi rompido, e monstros 
-que antes eram dispersos agora se reúnem em hordas vorazes,assolando os 
-reinos humanos como uma maré negra. No meio desse caos, 
-um jovem aventureiro inexperiente, 
-chamado Kael, acabou de ingressar na prestigiosa Guilda dos Aventureiros. 
+             No mundo de Arkania, uma aura mortal assola as terras Outrora pacíficas. 
+                O equilíbrio entre humanos e criaturas místicas foi rompido, e os monstros 
+                  que antes eram dispersos agora se reúnem em hordas vorazes, assolando os 
+                      reinos humanos como uma maré negra. No meio desse caos, um jovem aventureiro inexperiente, 
+                             chamado Kael, acabou de ingressar na prestigiosa Guilda dos Aventureiros. 
+
+
+
+
+                                      /\
+                                     /**\
+                                    /****\   /\
+                                   /      \ /**\
+                                  /  /\    /    \        /\    /\  /\      /\            /\/\/\  /\
+                                 /  /  \  /      \      /  \/\/  \/  \  /\/  \/\  /\  /\/ / /  \/  \
+                                /  /    \/ /\     \    /    \ \  /    \/ /   /  \/  \/  \  /    \   \
+                               /  /      \/  \/\   \  /      \    /   /    \
+                            __/__/______/____/__\___
 
 
 
@@ -60,6 +73,20 @@ chamado Kael, acabou de ingressar na prestigiosa Guilda dos Aventureiros.
         }
 
         public void Exibir2Texto()
+        {
+            Console.WriteLine(@"
+ 
+
+
+
+
+");
+            Console.WriteLine("                                             Pressione Qualquer Tecla!");
+            Console.ReadKey();
+            Console.Clear();
+        }
+
+        public void Exibir3Texto()
         {
             Console.WriteLine(@"
  

@@ -80,3 +80,8 @@ C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO2\RPG\ConsoleApp2\ConsoleApp2\
 C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO2\RPG\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Jogorpg.pdb
 C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO2\RPG\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Jogorpg.genruntimeconfig.cache
 C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO2\RPG\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\Jogorpg.dll
+<<<<<<< HEAD
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Enum.dll
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Enum.pdb
+=======
+>>>>>>> 3987e8e2017c8fcd615f17c92722945c671137de

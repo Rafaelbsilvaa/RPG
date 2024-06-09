@@ -1,0 +1,12 @@
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\Enum\bin\Debug\net6.0\Enum.deps.json
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\Enum\bin\Debug\net6.0\Enum.dll
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\Enum\bin\Debug\net6.0\Enum.pdb
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\Enum\obj\Debug\net6.0\Enum.csproj.AssemblyReference.cache
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\Enum\obj\Debug\net6.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\Enum\obj\Debug\net6.0\Enum.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\Enum\obj\Debug\net6.0\Enum.AssemblyInfo.cs
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\Enum\obj\Debug\net6.0\Enum.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\Enum\obj\Debug\net6.0\Enum.dll
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\Enum\obj\Debug\net6.0\refint\Enum.dll
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\Enum\obj\Debug\net6.0\Enum.pdb
+C:\Users\rafae\Documents\GitHub\RPG\ConsoleApp2\Enum\obj\Debug\net6.0\ref\Enum.dll

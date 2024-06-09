@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Runtime.InteropServices;
 using Asset;
+using Enum;
 class Program
 {
 
@@ -16,12 +17,17 @@ class Program
 
 
 
-        Inimigo Inimigo1 = new Inimigo(jogador);
+        Random random = new Random();
+        
+        Inimigo Inimigo1 = new Inimigo(jogador,( (NomesFase1)random.Next(0,3)).ToString()); 
+
+
+        
         Batalha batalha = new Batalha();
         batalha.IniciarBatalha(jogador, Inimigo1);
 
 
-        //========================================================================
+        
 
 
 

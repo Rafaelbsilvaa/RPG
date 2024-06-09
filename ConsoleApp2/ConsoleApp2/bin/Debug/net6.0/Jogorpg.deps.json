@@ -9,6 +9,7 @@
       "Jogorpg/1.0.0": {
         "dependencies": {
           "Asset": "1.0.0",
+          "Enum": "1.0.0",
           "Newtonsoft.Json": "13.0.3",
           "objetos": "1.0.0"
         },
@@ -27,6 +28,11 @@
       "Asset/1.0.0": {
         "runtime": {
           "Asset.dll": {}
+        }
+      },
+      "Enum/1.0.0": {
+        "runtime": {
+          "Enum.dll": {}
         }
       },
       "objetos/1.0.0": {
@@ -53,6 +59,11 @@
       "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
     },
     "Asset/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Enum/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

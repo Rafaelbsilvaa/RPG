@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Asset\Asset.csproj" />
+    <ProjectReference Include="..\Enum\Enum.csproj" />
     <ProjectReference Include="..\objetos\objetos.csproj" />
   </ItemGroup>
 
